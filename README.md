@@ -1,7 +1,7 @@
 # Hallo Geeks 👋 I'm Prerana Nawar
 <br />
-###I’m a Full Stack Web Developer & Mobile Application Developer. I love developing new skills.
-###I want to <strong>make things</strong> that <strong>make a difference</strong> !!
+### I’m a Full Stack Web Developer & Mobile Application Developer. I love developing new skills.
+### I want to <strong>make things</strong> that <strong>make a difference</strong> !!
 <br />
 <br />
 
