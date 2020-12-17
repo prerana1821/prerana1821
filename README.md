@@ -44,8 +44,8 @@ I want to <strong>make things</strong> that <strong>make a difference</strong> !
 <br />
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=prerana1821&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana1821&layout=compact" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=prerana1821&count_private=true&show_icons=true&theme=radical" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana1821&layout=compact&theme=radical" height="170px">
 <!-- 
 https://github-readme-stats.vercel.app/api?username=prerana1821&count_private=true&show_icons=true -->
 
