@@ -47,9 +47,7 @@ I want to <strong>make things</strong> that <strong>make a difference</strong> !
 <!-- 
 https://github-readme-stats.vercel.app/api?username=prerana1821&count_private=true&show_icons=true -->
 
-<br />
-<br />
-
+<br/>
 
 ### Connect with me:
 
