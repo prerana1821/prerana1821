@@ -5,7 +5,7 @@ I want to <strong>make things</strong> that <strong>make a difference</strong> !
 
 [My Portfolio](https://prerana-nawar.netlify.app/)
 
-[My Blogs](https://prerana-nawar.netlify.app/blogs.html)
+[My Blogs](https://precodes.netlify.app/blogs.html)
 
 ## Languages And Skills:
 
