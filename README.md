@@ -3,7 +3,7 @@
 I want to <strong>make things</strong> that <strong>make a difference</strong> !!</h3>
 <br />
 
-[My Portfolio](https://prerana-nawar.netlify.app/)
+[My Portfolio](https://precodes.netlify.app/)
 
 [My Blogs](https://precodes.netlify.app/blogs.html)
 
